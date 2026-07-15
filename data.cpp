@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+int asd;
 int main(){
     freopen("qwq.in","w",stdout);
     srand((int)time(0));
