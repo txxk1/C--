@@ -2,6 +2,7 @@
 
 using namespace std;
 int asd;
+int third;
 int main(){
     freopen("qwq.in","w",stdout);
     srand((int)time(0));
